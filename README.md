@@ -1,7 +1,7 @@
 # BASIC-LINUX-Reference-COMMANDS
 
-1. Check Current Directory:
-  . pwd: Displays the present working directory.
+** Check Current Directory:
+  pwd: Displays the present working directory.
 
 3. Check Current User:
   whoami: Outputs the current logged-in user's name.
